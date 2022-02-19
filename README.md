@@ -11,4 +11,7 @@ The PC shutdown header is connected to GND and SHUTDOWN_BUTTON (digital 4).
 The polarity of PC shutdown header is important, GND to GND.  
 
 ## Lightning
-As of now I included a RGB led in the build but have not written any code for it.
+As of now I included a RGB led in the build but have not written any code for it.  
+
+## The Housing
+I 3D designed and printed the housing for my Fractal R4 PC case.
