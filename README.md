@@ -1,5 +1,6 @@
 # Toggle switch as a power button
 Classic PC power buttons are momentary switches, however I wanted to use a toggle switch as a power button.
+![Result](image.JPG)
 
 ## Code
 The arduino constantly reads the switch state and if within 25ms the switch state has changed, it toggles the shutdown header pin to low for 200ms.  
